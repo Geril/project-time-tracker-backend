@@ -1,0 +1,27 @@
+{
+  "name": "project-time-tracker-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Time Tracking Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Geril/project-time-tracker-backend.git"
+  },
+  "author": "Geril",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geril/project-time-tracker-backend/issues"
+  },
+  "homepage": "https://github.com/Geril/project-time-tracker-backend#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "uuid": "^3.0.1"
+  }
+}
