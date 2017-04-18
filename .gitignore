@@ -1,6 +1,7 @@
 # Logs
 logs
 *.log
+npm-debug.log
 
 # Merge tools
 *.orig
